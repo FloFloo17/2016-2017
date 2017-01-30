@@ -1,0 +1,14 @@
+recherche sur le fonctionnement de reCaptcha :
+
+http://www.lemonde.fr/pixels/article/2016/02/10/petite-histoire-des-captchas-ces-tests-d-identification-en-pleine-mutation_4862727_4408996.html
+
+Probléme posé par le test certaine partie sont utilisés par google non pas pour savoir si on est un robot ou non, mais pour se fier à la réponse donner pour améliorer ça Base de données.
+
+Le test de google permet également de télécharger les images proposées pour les comparer a d'autre; 
+Le mot clé du concept est également facile à extraire :
+
+<div class="rc-imageselect-desc-no-canonical">
+	Sélectionnez toutes les images montrant <strong>une maison</strong>
+</div>
+
+Même si la réponce doit être donnée dans un temps limité.
