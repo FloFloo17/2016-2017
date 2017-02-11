@@ -1,15 +1,29 @@
 - lundi 30 janvier (status 1) :
 recherche sur la solution de logiciel, algorime de gestion d'image (openCV)
-avec livraisons sur les solutions à utiliser
+
 
 - vendredi 10 février (Status 2) :
-test sur plusieurs jeux d'images pour déterminer une relation
+
+
+- lundi 13 février
+trouver un algorithme qui permet d'apprendre en fonction d'autres images
+
 
 - lundi 20 février (Status 3) :
-classifier des images donner en fonction d'une basse d'images de référence en rapport avec la catégorie voulue
+utilisation de l'algoritme choisie dans un cadre de test pour valider son utilisation dans le projet
+
+
+- lundi 27 février
+test sur plusieurs jeux d'images pour déterminer une relation
+
 
 - mercredi 1 mars (Status 4) :
+classifier des images donner en fonction d'une basse d'images de référence en rapport avec la catégorie voulue
+
+
+- lundi 6 mars
 automatiser la sélection d'une catégorie en allant chercher les images de référence sur Google images par exemple
+
 
 - jeudi 16 mars (Rapport final)
 réucir le test de reCaptcha
