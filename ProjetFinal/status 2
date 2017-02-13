@@ -1,0 +1,23 @@
+Image Recognition
+
+En fessant des recherches j'ai trouvé qu'il n'y avait pas vraiment d'algorithme avec de nom spécifique pour la reconnaissance d'image, en revanche j'ai trouvé des exemples avec des explications sur : "Image Classification"
+
+méthode:
+classify images  in Python : extract higher level features from this model which may be reused for other vision tasks
+
+
+site avec tuto vidéo pour l'image recognition en python :
+	https://pythonprogramming.net/image-recognition-python/
+
+
+repository sur un exemple du traitement d'image en profondeur
+	https://github.com/fchollet/deep-learning-models
+explication:
+	http://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
+
+
+Une méthode qui consiste a trier les images dans différentes catégories avec un apprentissage de 1000 images par modèles:
+	https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+
+C'est site sont des exemples que je devrais approfondir pour le prochain rendu
